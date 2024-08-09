@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../FOLDER C++/UAS SEM2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"random": "cpp"
+		}
+	}
+}
